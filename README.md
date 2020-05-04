@@ -4,7 +4,7 @@ a
 a
 a
 
-    <link rel="canonical" href="https://mum.is/sock-data-se-come-tu-bocata/" />
+</code>    <link rel="canonical" href="https://mum.is/sock-data-se-come-tu-bocata/" />
  
 
 
