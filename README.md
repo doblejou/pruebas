@@ -6,7 +6,7 @@ a
 
 </code>    
     
-    <link rel="canonical" href="https://mum.is/sock-data-se-come-tu-bocata/" />
+ <   <link rel="canonical" href="https://mum.is/sock-data-se-come-tu-bocata/" />
  
 
 
